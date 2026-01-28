@@ -36,5 +36,4 @@ Top Pickup Locations: Subhash Chowk and DLF Phase 3 ranked among the most freque
 ### Author
 
 **Shruti Satpute**
-
 Aspiring Data Analyst | Advanced Excel 
