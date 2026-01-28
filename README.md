@@ -18,7 +18,7 @@ Charts (Line, Bar, Pie, Donut)
 
 Slicers for Booking Status, Vehicle Type, and Driver Ratings
 
-Project Workflow
+### Project Workflow
 
 Data Collection: Imported raw NCR ride-booking data into Excel.
 
